@@ -1,0 +1,75 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  padding: 10px;
+}
+
+img {
+  height: 200px;
+  border-radius: 10%;
+  padding: 10px;
+}
+.encabezado {
+  text-align: center;
+}
+
+.form {
+  text-align: center;
+}
+
+#yo {
+  text-align: center;
+}
+
+#contacto {
+  text-align: center;
+  padding: 5px;
+}
+
+.boton {
+  margin-top: 10px;
+  background-color: antiquewhite;
+}
+
+.alinear {
+  text-align: center;
+}
+
+.form-group {
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.color {
+  background-color: rgb(255, 153, 0);
+}
+
+.footer {
+  background-color: rgba(0, 0, 0, 0.807);
+  color: antiquewhite;
+  text-align: center;
+}
+
+.copy {
+  background-color: black;
+  color: antiquewhite;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.iconos {
+  padding: 10px;
+}
+
+.colors {
+  background-color: antiquewhite;
+}
